@@ -1,2 +1,2 @@
 # mintty-themes
-Copy files into usr/share/mintty/themes folder
+Copy files into usr/share/mintty/themes directory
